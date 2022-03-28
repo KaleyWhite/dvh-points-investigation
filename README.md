@@ -1,5 +1,5 @@
 # DVH Points Investigation
-This data analysis explores how two radiation therapy treatmemt planning systems, RayStation (version 11A) and TomoTherapy&trade; (Hi-Art&reg;, version 5.1), determine which DVH points to export to a text file.
+This data analysis explores how two radiation therapy treatment planning systems, RayStation (version 11A) and TomoTherapy&trade; (Hi-Art&reg;, version 5.1), determine which DVH points to export to a text file.
 
 ## Dependencies
 Required packages are listed in `requirements.txt`.
